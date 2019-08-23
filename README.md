@@ -15,3 +15,15 @@ So I cobbled together some parts (with a bit of help from AliExpress), yanked my
 - DHT11 Temperature / Humidity sensor
 - Capacitive Soil Moisture Sensor "v1.2"
 - 18W 5V solar panel
+
+## Setup
+
+### Soil moisture sensor connections
+- VCC --> 3.3v
+- GND --> GND
+- AOUT --> A4
+
+### DHT11 sensor
+- VCC --> VIN
+- GND --> GND
+- DATA --> D2
